@@ -4,8 +4,8 @@
   "license": "MIT",
   "scripts": {
     "sass-compile-nomini": "sass scss:css",
-    "sass-compile": "sass scss/theme.scss css/theme.css",
-    "sass-compile-jq": "sass scss/jquery-ui.scss css/jquery-ui.css",
+    "sass-compile": "sass scss/theme.scss css/theme.css --style compressed",
+    "sass-compile-jq": "sass scss/jquery-ui.scss css/jquery-ui.css --style compressed",
     "sass-watch": "sass scss/theme.scss css/theme.css --watch",
     "sass-watch-jq": "sass scss/jquery-ui.scss css/jquery-ui.css --watch"
   },
