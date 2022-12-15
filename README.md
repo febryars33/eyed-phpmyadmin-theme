@@ -6,6 +6,10 @@
 <p align="center"><a href="https://www.phpmyadmin.net/">phpMyAdmin</a> is a free software tool written in PHP, intended to handle the administration of MySQL over the Web.</p>
 <img src="https://raw.githubusercontent.com/febryars33/eyed-phpmyadmin-theme/main/screen.png">
 
+Originally from :
+- https://github.com/phpmyadmin/themes/tree/master/bootstrap
+- https://github.com/phpmyadmin/themes/tree/master/blueberry (icons)
+
 <h3>Licenses</h3>
 <ul>
   <li>Bootstrap <a href="https://github.com/twbs/bootstrap/blob/main/LICENSE">https://github.com/twbs/bootstrap/blob/main/LICENSE</a></li>
@@ -13,3 +17,4 @@
   <li>Icons8 <a href="https://icons8.com/license">https://icons8.com/license</a></li>
   <li>And more ...</li>
 </ul>
+
