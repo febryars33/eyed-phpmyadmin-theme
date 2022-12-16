@@ -6,6 +6,9 @@
 <p align="center"><a href="https://www.phpmyadmin.net/">phpMyAdmin</a> is a free software tool written in PHP, intended to handle the administration of MySQL over the Web.</p>
 <img src="https://raw.githubusercontent.com/febryars33/eyed-phpmyadmin-theme/main/screen.png">
 
+### Required
+- Your phpMyAdmin must be version 5.2
+
 <h3>Installation</h3>
 <p>To install a theme, unzip your downloaded theme into the directory /themes/ of your phpMyAdmin folder. When you open phpMyAdmin, you should be able to select the theme. Please read the documentation for more details.</p>
 
