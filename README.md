@@ -4,7 +4,9 @@
 </p>
 <h3 align="center">Eyed theme for phpMyAdmin</h3>
 <p align="center"><a href="https://www.phpmyadmin.net/">phpMyAdmin</a> is a free software tool written in PHP, intended to handle the administration of MySQL over the Web.</p>
+
 <img src="https://raw.githubusercontent.com/febryars33/eyed-phpmyadmin-theme/main/screen.png">
+<img src="https://user-images.githubusercontent.com/48888849/208342802-8b50326f-af03-43ab-9fd9-097f881fdb9d.png">
 
 ### Required
 - Your phpMyAdmin must be version 5.2
