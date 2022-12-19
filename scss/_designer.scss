@@ -48,10 +48,10 @@ canvas.designer {
   background-color: $white;
   color: $black;
   border-collapse: collapse;
-  border: 1px solid #aaa;
   z-index: 1;
   user-select: none;
   box-shadow: $box-shadow;
+  border-radius: $border-radius;
 
   .header {
     background-color: tint-color($primary, 80%) !important;
@@ -63,6 +63,7 @@ canvas.designer {
   cursor: move;
   padding: 1px;
   font-weight: bold;
+  border-top-right-radius: $border-radius;
 }
 
 .tab_zag_2 {
@@ -71,6 +72,7 @@ canvas.designer {
   cursor: move;
   padding: 1px;
   font-weight: bold;
+  border-top-right-radius: $border-radius;
 }
 
 .tab_field {
@@ -79,7 +81,7 @@ canvas.designer {
   cursor: default;
 
   &:hover {
-    background-color: #cfc;
+    background-color: $blue-100;
     color: $black;
     background-repeat: repeat-x;
     cursor: default;
@@ -92,7 +94,7 @@ canvas.designer {
   cursor: default;
 
   &:hover {
-    background-color: $green-100;
+    background-color: $blue-100;
     color: $black;
     background-repeat: repeat-x;
     cursor: default;
@@ -122,7 +124,7 @@ canvas.designer {
 .designer_Tabs,
 .L_butt2_1 {
   cursor: default;
-  color: $green;
+  color: $blue;
   white-space: nowrap;
   text-decoration: none;
   text-indent: 3px;
@@ -133,7 +135,7 @@ canvas.designer {
 
   &:hover {
     cursor: default;
-    background-color: $green-100;
+    background-color: $blue-100;
     text-indent: 3px;
     font-weight: bold;
     white-space: nowrap;
@@ -173,6 +175,7 @@ canvas.designer {
   padding: 0 6px !important;
   width: 1px;
   text-decoration: none;
+  border-top-left-radius: $border-radius;
 
   &:hover {
     vertical-align: middle;
