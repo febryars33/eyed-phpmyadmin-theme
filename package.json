@@ -10,9 +10,10 @@
     "sass-watch-jq": "sass scss/jquery-ui.scss css/jquery-ui.css --watch"
   },
   "dependencies": {
-    "bootstrap": "^5.2.3"
+    "bootstrap": "5.2.3"
   },
   "devDependencies": {
-    "sass": "^1.56.1"
+    "prettier": "3.3.2",
+    "sass": "^1.77.6"
   }
 }
